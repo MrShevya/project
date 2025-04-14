@@ -9,4 +9,5 @@ This is awesome project.
 ## Some new section here
 =======
 ## Conflict
->>>>>>> conflict
+>>>>>>> conflic
+>>>>>>> ## Conflict22
