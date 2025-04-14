@@ -1,13 +1,9 @@
 # Project
 This is awesome project.
 ## How to start
-
 ## Author
 [Author](author.md)
-<<<<<<< HEAD
-
 ## Some new section here
-=======
 ## Conflict
->>>>>>> conflic
->>>>>>> ## Conflict22
+## Confl2312ict
+
